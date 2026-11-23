@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Marta",
+        "province": "Cádiz",
+        "expireDate": "2024-12-31"
+    },
+
+    {
+        "name": "Lucio Sucio",
+        "province": "Sevilla",
+        "expireDate": "2025-03-15"
+    },
+
+    {
+        "name": "Papa Patata",
+        "province": "Almeria",
+        "expireDate": "2024-11-20"
+    },
+
+    {
+        "name": "Anita Dinamitax",
+        "province": "Granada",
+        "expireDate": "2025-01-10"
+    },
+
+    {
+        "name": "Hector",
+        "province": "Granada",
+        "expireDate": "2024-09-05"
+    },
+
+    {
+        "name": "Lorena Berenjena",
+        "province": "Jaén",
+        "expireDate": "2025-02-28"
+    },
+
+    {
+        "name": "Coco Loco",
+        "province": "Cádiz",
+        "expireDate": "2024-10-15"
+    }
+]
